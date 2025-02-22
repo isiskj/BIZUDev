@@ -30,9 +30,18 @@ BIZUDev (ビズデヴ) は、ユニバーサルデザインフォントの [BIZ 
 | :---: | :---: |
 | ![BIZUDev](https://github.com/isiskj/BIZUDev/blob/main/SampleImage/BIZUDev_pattern.png) | ![BIZUDevH](https://github.com/isiskj/BIZUDev/blob/main/SampleImage/BIZDevH_pattern.png) |
 
+### VSCodeサンプル(Pythonコード)BIZUDev
+
+![sample](https://github.com/isiskj/BIZUDev/blob/main/SampleImage/BIZDev_for_Python.png)
+
 ## インストール
 
 ダウンロードした.ttfファイルを`右クリック`→`インストール`でインストールします。
+
+## ⚠️注意⚠️
+
+Windows11 メモ帳(NotePad),及びMicrosoft VisualStudioでは仕様なのか、全角スペースを可視化することはできません。ご注意ください。
+(VScode,Excelなどのその他のアプリケーションでは全角スペースは可視化されるため、メモ帳,VisualStudioの仕様のようです。)
 
 ## ライセンス
 
